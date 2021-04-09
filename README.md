@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 😄 我就想试试这玩意啥效果
+
 <!--
 **someok/someok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
