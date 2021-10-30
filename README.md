@@ -11,7 +11,7 @@
 
 </p>
 
-<p>
+<p style="display: flex; justify-content: space-between;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someok)](https://github.com/someok)
 [![Someok's GitHub stats](https://github-readme-stats.vercel.app/api?username=someok&count_private=true&show_icons=true)](https://github.com/someok)
