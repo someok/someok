@@ -7,9 +7,8 @@
 <p>
 
 [![zhihu](https://img.shields.io/badge/dynamic/json?style=flat-square&color=142026&labelColor=0066ff&label=%E7%9F%A5%E4%B9%8E&logo=zhihu&logoColor=white&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dsomeok)](https://www.zhihu.com/people/someok)
-
+[![Twitter](https://img.shields.io/badge/dynamic/json?style=flat-square&color=142026&labelColor=1D9DEA&label=Twitter&logo=twitter&logoColor=white&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dsomeok)](https://twitter.com/someok)
 [![GitHub User's stars](https://img.shields.io/github/stars/someok?affiliations=OWNER&label=GitHub%20Stars&labelColor=24292E&color=brightgreen&logo=github&style=flat-square)](https://github.com/someok)
-
 [![](https://komarev.com/ghpvc/?username=someok&color=blue&style=flat-square)](https://yhype.me/)
 
 </p>
