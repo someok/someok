@@ -12,7 +12,7 @@
 </p>
 
 [![Someok's GitHub stats](https://github-readme-stats.vercel.app/api?username=someok&count_private=true&show_icons=true)](https://github.com/someok)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someok)](https://github.com/someok)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someok&layout=compact)](https://github.com/someok)
 
 <!--
 **someok/someok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
