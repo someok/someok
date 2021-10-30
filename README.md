@@ -13,8 +13,8 @@
 
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someok&theme=onedark&hide_border=true)](https://github.com/someok)
-[![Someok's GitHub stats](https://github-readme-stats.vercel.app/api?username=someok&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/someok)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=someok&theme=vue-dark&hide_border=true)](https://github.com/someok)
+[![Someok's GitHub stats](https://github-readme-stats.vercel.app/api?username=someok&count_private=true&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/someok)
 
 </p>
 <!--
